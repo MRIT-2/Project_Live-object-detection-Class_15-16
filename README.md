@@ -1,1 +1,1 @@
-﻿# Project_Live Object Detection-Class_15-16
+﻿# Project_Live Object Detection
